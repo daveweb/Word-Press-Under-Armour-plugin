@@ -18,7 +18,7 @@ class API {
 	/** Our developer keys which identify this unique application. */
 	private $keys = array(
 		"clientid"=>"wkow6njvxysra7ei7f6pkl3iaifpzc4k",
-		"clientsecret"=>"g2bypfrybm35xqec6mq3vyl3geyhj3w4j3ed2kxkug55lppizrlxq33od6gru4di"
+		"clientsecret"=>"secret code"
 	);
 
   function __construct() {
